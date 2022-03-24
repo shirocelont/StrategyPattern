@@ -1,0 +1,11 @@
+C:\principal\Compresion\Compresion\bin\Debug\Compresion.exe.config
+C:\principal\Compresion\Compresion\bin\Debug\Compresion.exe
+C:\principal\Compresion\Compresion\bin\Debug\Compresion.pdb
+C:\principal\Compresion\Compresion\obj\Debug\Compresion.csproj.AssemblyReference.cache
+C:\principal\Compresion\Compresion\obj\Debug\Compresion.csproj.SuggestedBindingRedirects.cache
+C:\principal\Compresion\Compresion\obj\Debug\Compresion.Form1.resources
+C:\principal\Compresion\Compresion\obj\Debug\Compresion.Properties.Resources.resources
+C:\principal\Compresion\Compresion\obj\Debug\Compresion.csproj.GenerateResource.cache
+C:\principal\Compresion\Compresion\obj\Debug\Compresion.csproj.CoreCompileInputs.cache
+C:\principal\Compresion\Compresion\obj\Debug\Compresion.exe
+C:\principal\Compresion\Compresion\obj\Debug\Compresion.pdb
